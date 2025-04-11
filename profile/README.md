@@ -1,12 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/Sweetchai-Studios/sweetchai-assets/blob/main/logo/main.png?raw=true" width="200" alt="Sweetchai Studio Logo"/>
+</p>
 
-<!--
+# Welcome to **Sweetchai Studio** 🍵✨
 
-**Here are some ideas to get you started:**
+We are a small studio with a focus on creating **beautiful** and **useful** digital tools that help you stay productive — without losing style!  
+Right now, we’re working on some exciting projects and can’t wait to share them with you. Stay tuned!  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+### 🌍 **Follow Us**
+- [Website](https://sweetchaistudios.carrd.co/)  
+- [Itch.io](https://sweetchai-studio.itch.io/)  
+- [Instagram](https://www.instagram.com/sweetchai.studio/)
+
+---
+
+Stay connected with us for updates on new releases, features, and sneak peeks of what’s coming next! 👀💫
