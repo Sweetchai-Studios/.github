@@ -1,19 +1,21 @@
 <p align="center">
-  <img src="https://github.com/Sweetchai-Studios/sweetchai-assets/blob/main/logo/main.png?raw=true" width="200" alt="Sweetchai Studio Logo"/>
+  <img src="https://github.com/Sweetchai-Studios/sweetchai-assets/blob/main/logo/main.png?raw=true" width="150" alt="Sweetchai Codes Logo"/>
 </p>
 
-# Welcome to **Sweetchai Studio** 🍵✨
+# Welcome to **sweetchai.codes** 🍵✨
 
-We are a small studio with a focus on creating **beautiful** and **useful** digital tools that help you stay productive — without losing style!  
-Right now, we’re working on some exciting projects and can’t wait to share them with you. Stay tuned!  
+Hey! I’m a computer science student and digital creator, working on cozy, aesthetic, and functional tools to brighten your day and boost your productivity ✨  
+This is my little space where I share side projects — from handy apps to workspace goodies — all built to help both myself and others stay inspired and organised, while growing my skills beyond textbooks and coding drills.
+
+Stay tuned for some exciting projects in the works! 🚀
 
 ---
 
-### 🌍 **Follow Us**
+### 🌍 **Find Me Online**
 - [Website](https://sweetchaicodes.carrd.co/)
-- [Itch.io](https://sweetchai-studio.itch.io/)  
+- [Itch.io](https://sweetchai-studio.itch.io/)
 - [Instagram](https://www.instagram.com/sweetchai.codes/)
 
 ---
 
-Stay connected with us for updates on new releases, features, and sneak peeks of what’s coming next! 👀💫
+Let’s make everyday workflows a little cozier and a lot more fun! 🌷✨
