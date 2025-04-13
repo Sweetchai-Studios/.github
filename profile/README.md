@@ -10,9 +10,9 @@ Right now, we’re working on some exciting projects and can’t wait to share t
 ---
 
 ### 🌍 **Follow Us**
-- [Website](https://sweetchaistudios.carrd.co/)  
+- [Website](https://sweetchaicodes.carrd.co/)
 - [Itch.io](https://sweetchai-studio.itch.io/)  
-- [Instagram](https://www.instagram.com/sweetchai.studio/)
+- [Instagram](https://www.instagram.com/sweetchai.codes/)
 
 ---
 
